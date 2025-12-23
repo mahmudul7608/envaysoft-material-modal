@@ -6,7 +6,7 @@ The goal of this assignment is to demonstrate component-based architecture, stat
 ---
 
 ## 🔗 Live Demo
-👉 pp
+👉 https://envaysoft-material-modal01.netlify.app/
 
 ## 💻 GitHub Repository
 👉
