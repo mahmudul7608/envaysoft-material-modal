@@ -6,14 +6,16 @@ The goal of this assignment is to demonstrate component-based architecture, stat
 ---
 
 ## 🔗 Live Demo
-👉 https://envaysoft-material-modal01.netlify.app/
+ https://envaysoft-material-modal01.netlify.app/
 
 ## 💻 GitHub Repository
-👉
+https://github.com/mahmudul7608/envaysoft-material-modal
+
+
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Vue.js 3** (Composition API, `<script setup>`)
 - **Vite**
 - **Tailwind CSS**
@@ -21,7 +23,7 @@ The goal of this assignment is to demonstrate component-based architecture, stat
 
 ---
 
-## ✨ Features
+##  Features
 - Add Material trigger box
 - Centered modal with background overlay
 - Material category filtering
@@ -35,7 +37,7 @@ The goal of this assignment is to demonstrate component-based architecture, stat
 
 ---
 
-## 🧩 Core Flow
+##  Core Flow
 1. User clicks **Add Material**
 2. Modal opens at the center of the screen
 3. User selects a material category
@@ -47,12 +49,7 @@ The goal of this assignment is to demonstrate component-based architecture, stat
 
 ---
 
-## 📸 Screenshot
-<img width="100%" alt="Material Modal UI" src="https://github.com/user-attachments/assets/c06da077-8a3b-4b5d-8897-6b16bb5e2f41" />
-
----
-
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ```bash
 npm install
