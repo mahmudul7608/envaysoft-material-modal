@@ -1,5 +1,8 @@
 # Material Selection Modal – Envaysoft Assignment
 
+<img width="1919" height="872" alt="Screenshot 2025-12-22 200614" src="https://github.com/user-attachments/assets/04435b3c-1496-43cc-b94c-12ad587c78e5" />
+
+
 This project is a **Material Selection Modal** built as part of the **Vue.js Developer Task** for **Envaysoft**.  
 The goal of this assignment is to demonstrate component-based architecture, state management, UI interactions, and smooth UX using **Vue 3** and **Tailwind CSS**.
 
